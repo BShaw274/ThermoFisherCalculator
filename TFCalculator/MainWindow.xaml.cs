@@ -120,7 +120,11 @@ namespace TFCalculator
 
         private void Button_Click_Dot(object sender, RoutedEventArgs e)
         {
-            Message1.Text += ".";
+            if(!Message1.Text.Contains("."))
+            {
+                Message1.Text += ".";
+            }
+            
         }
     }
 }

@@ -18,3 +18,4 @@ C:\Users\BiTz\source\repos\TFCalculator\TFCalculator\obj\Debug\net8.0-windows\re
 C:\Users\BiTz\source\repos\TFCalculator\TFCalculator\obj\Debug\net8.0-windows\TFCalculator.pdb
 C:\Users\BiTz\source\repos\TFCalculator\TFCalculator\obj\Debug\net8.0-windows\TFCalculator.genruntimeconfig.cache
 C:\Users\BiTz\source\repos\TFCalculator\TFCalculator\obj\Debug\net8.0-windows\ref\TFCalculator.dll
+C:\Users\BiTz\source\repos\TFCalculator\TFCalculator\obj\Debug\net8.0-windows\TFCalculator.sourcelink.json
